@@ -1,4 +1,4 @@
-# DEV-OPS-LR3 (Ansible Web Server Deployment) 
+# DEV-OPS-LR4 (Ansible Web Server Deployment) 
 Этот проект содержит Ansible-плейбук, который автоматически устанавливает nginx на целевую виртуальную машину и копирует туда файл index.html для отображения веб-страницы.
 
 ## Содержимое репозитория
